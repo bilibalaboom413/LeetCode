@@ -1,6 +1,4 @@
 class Solution(object):
-    count = 0
-
     def findTargetSumWays(self, nums, target):
         """
         :type nums: List[int]
